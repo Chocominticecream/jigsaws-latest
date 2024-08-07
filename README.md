@@ -6,3 +6,5 @@
  It's not very good but I guess it is what happens when you code something in 2 days with not much experience.
 
  play the game here! https://mintchocoicecream.itch.io/jigsawprojectgame
+
+ This game will also not be receiving any updates as I have already finished my FYP
