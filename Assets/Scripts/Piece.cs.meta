@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: aad5d9fa20e0be74fa59be222cdd7e43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvas: {instanceID: 0}
+  - audioPlayer: {fileID: 547469264507916948, guid: 7707d748f8c9c394c9f3cf6724dde35f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
